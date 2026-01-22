@@ -33,5 +33,5 @@ A simulation of a stock trading platform built in Java. This console-based appli
 * `StockMarket.java`: Main entry point, handles menu loop and File I/O.
 
 ## 🔗 Author
-* **[Your Name]**
+* **Quazi Naqibul Alam**
 * *Project completed as part of the CodeAlpha Internship Program.*
