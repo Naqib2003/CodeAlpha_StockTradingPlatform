@@ -15,17 +15,7 @@ A simulation of a stock trading platform built in Java. This console-based appli
 * **Java I/O:** Reading and writing text files for data persistence.
 * **Algorithms:** Logic for transaction validation and financial calculations.
 
-## 💻 How to Run
-1.  Ensure you have Java installed.
-2.  Clone this repository.
-3.  Compile the files:
-    ```bash
-    javac *.java
-    ```
-4.  Run the main application:
-    ```bash
-    java StockMarket
-    ```
+
 
 ## 📂 Project Structure
 * `Stock.java`: Blueprint for stock objects (Symbol, Price, Name).
